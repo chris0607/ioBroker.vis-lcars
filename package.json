@@ -10,10 +10,10 @@
     "bluefox <dogafox@gmail.com>",
     "hobbyquaker <hq@ccu.io>"
   ],
-  "homepage": "https://github.com/ioBroker/ioBroker.vis-lcars",
+  "homepage": "https://github.com/chris0607/ioBroker.vis-lcars",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ioBroker/ioBroker.vis-lcars"
+    "url": "https://github.com/chris0607/ioBroker.vis-lcars"
   },
   "licenses": [
     {
